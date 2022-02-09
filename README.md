@@ -11,7 +11,7 @@ Wir sammeln hier Fehlermeldungen zum **alt:V Server** und allen anderen **Plattf
 
 ## Fehlermeldungen einsenden
 
-### **[Klicke hier](https://github.com/Benni9323/gcrp-bugtracker/issues)**
+### **[Klicke hier](https://github.com/German-Classic-Company/gcrp_issues/issues/new/choose)**
 
 ## Was sind keine Fehlermeldungen?
 
@@ -26,4 +26,4 @@ Melde dich bitte dafÃ¼r auf unserem **Teamspeak Server** (ts.gcrp.cc) oder sch
 
 ## Discord
 
-[![Alternate-Life Discord](https://discordapp.com/api/guilds/675486137942278160/embed.png?style=banner2)](https://discord.gg/22QhFbF)
+[![GCRP Discord](https://discordapp.com/api/guilds/675486137942278160/embed.png?style=banner2)](https://discord.gg/22QhFbF)
