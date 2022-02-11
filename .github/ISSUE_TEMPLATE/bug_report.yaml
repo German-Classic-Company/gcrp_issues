@@ -1,6 +1,6 @@
 name: Bug-Report
 description: Melde ein Bug auf GCRP!
-labels: ['Class: bug']
+labels: ['bug']
 
 body:
   - type: textarea
