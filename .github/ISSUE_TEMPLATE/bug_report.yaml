@@ -6,9 +6,8 @@ body:
   - type: textarea
     id: description
     attributes:
-      label: Description of the problem
-      description: Describe the exact problem.
-      placeholder: A clear and concise description of what the bug is.
+      label: Beschreibe dein Problem!
+      description: Beschreibe dein Problem Genau!
     validations:
       required: true
   - type: textarea
