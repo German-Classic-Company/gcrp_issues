@@ -26,4 +26,4 @@ Melde dich bitte dafür auf unserem **Teamspeak Server** (ts.gcrp.cc) oder schre
 
 ## Discord
 
-[![GCRP Discord](https://discordapp.com/api/guilds/675486137942278160/embed.png?style=banner2)](https://discord.gg/22QhFbF)
+[![GCRP Discord](https://discordapp.com/api/guilds/675486137942278160/embed.png?style=banner2)](https://discord.gg/gcrpcc)
