@@ -40,8 +40,8 @@ body:
   - type: input
     id: version
     attributes:
-      label: Version
-      description: On what version is the issue present
-      placeholder: e.g. dev/7.0-dev3
+      label: Dein Character-Name
+      description: Wie lautet dein Charakter-Name!
+      placeholder: e.g. Max Mustermann
     validations:
       required: true
