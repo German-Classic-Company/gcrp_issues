@@ -1,8 +1,8 @@
 <p align="center"><img src="https://i.imgur.com/gcE2YWk.png"></p>
 
 <p align="center">
-<a href="https://github.com/German-Classic-Company/gcrp_issues/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues-raw/German-Classic-Company/Bugs.svg?label=Offene%20Issues" alt="Offene Issues"></a>
-<a href="https://github.com/German-Classic-Company/gcrp_issues/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/German-Classic-Company/Bugs.svg?label=Geschlossene%20Issues" alt="Geschlossene Issues"></a>
+<a href="https://github.com/German-Classic-Company/gcrp_issues/issues?q=is%3Aopen+is%3Aissue"><img src="https://img.shields.io/github/issues-raw/gcrp_issues/Bugs.svg?label=Offene%20Issues" alt="Offene Issues"></a>
+<a href="https://github.com/German-Classic-Company/gcrp_issues/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/gcrp_issues/Bugs.svg?label=Geschlossene%20Issues" alt="Geschlossene Issues"></a>
 </p>
 
 # GCRP Bugtracker
