@@ -48,6 +48,30 @@ body:
         - Microsoft Edge
     validations:
       required: true
+  - type: dropdown
+    id: browsers2
+    attributes:
+      label: 22222What browsers ar
+      multiple: true
+      options:
+        - XX
+        - 22
+        - 33
+        - 33122 Edge
+    validations:
+      required: true
+  - type: dropdown
+    id: xsd
+    attributes:
+      label: Wtf
+      multiple: true
+      options:
+        - A
+        - B
+        - C
+        - D Edge
+    validations:
+      required: true
   - type: textarea
     id: logs
     attributes:
